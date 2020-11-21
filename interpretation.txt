@@ -1,1 +1,0 @@
-The method used for classification is random forest. Based on processing, it was found that the accuracy value was still small, namely O.33. And it cannot be said that this model is good for classifying ratings. As the recommendation for the future is looking for methods with higher accuracy to classify so that a good model will be adapted.
