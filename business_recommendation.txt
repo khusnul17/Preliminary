@@ -1,0 +1,3 @@
+Based on the result of the hitogram, the corresponding probability distribution is exponential. This is because the data is skewed to the right.
+Based on these results, it can be said that there are more users in total quantity they have purchased is a little. And fewer users with the total quantity they have purchased is a lot. The right business recommendation is to reward users in total
+quantity they have purchased is a lot. So that they remain as loyal users. In addition, it is also necessary to give different treats to users with the total quantity they have purchased is a small so that they are encouraged to always buy.
